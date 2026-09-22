@@ -1,0 +1,3454 @@
+{
+    "recipes": [
+        {
+            "id": "hummus-classic",
+            "title": "Classic Hummus",
+            "originalName": "חומוס",
+            "description": "The dish everything else is measured against. The texture comes from baking soda in the soak and the pot, not from a stronger blender.",
+            "category": "Hummus & Falafel",
+            "kosherType": "Parve",
+            "image": "images/Hummus_Classic.jpg",
+            "prepTime": 30,
+            "cookTime": 120,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "dried chickpeas",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "baking soda",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "4",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ice water",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Soak the chickpeas overnight in water with half the baking soda. They should double in size.",
+                "Drain, cover with fresh water and the remaining soda, and simmer 1.5-2 hours, until a chickpea crushes between two fingers with no resistance at all. A chickpea that still resists gives grainy hummus, and that is the usual mistake.",
+                "Skim the foam and floating skins as it cooks. There is no need to peel by hand.",
+                "Blend the chickpeas hot with the garlic and lemon to a smooth paste.",
+                "Add tahini, cumin and salt, and drizzle in ice water while blending until the mixture turns pale and airy.",
+                "Serve in a shallow plate, sweep a well with the back of a spoon and pour olive oil in. Parve - serve with hot pita."
+            ],
+            "tags": [
+                "hummus",
+                "legumes",
+                "parve",
+                "israeli"
+            ]
+        },
+        {
+            "id": "masabacha",
+            "title": "Masabacha",
+            "originalName": "مسبحة",
+            "description": "The opposite of smooth hummus: the chickpeas stay whole and hot and the tahini is poured over them. The hummusiya breakfast.",
+            "category": "Hummus & Falafel",
+            "kosherType": "Parve",
+            "image": "images/Masabacha.jpg",
+            "prepTime": 20,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried chickpeas",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "baking soda",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "3",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Soak overnight and simmer about two hours with the soda, until the chickpeas are completely soft but still whole.",
+                "Keep a cup of the cooking liquid - it is what makes the sauce.",
+                "Make the tahini sauce: tahini, lemon, garlic, salt and hot cooking liquid, stirred to the consistency of pouring cream.",
+                "Crush about a quarter of the chickpeas into the sauce and leave the rest whole.",
+                "Serve hot, not at room temperature - that is the difference between masabacha and cold hummus.",
+                "Scatter parsley and paprika and pour olive oil over. Parve."
+            ],
+            "tags": [
+                "chickpeas",
+                "breakfast",
+                "parve",
+                "hummusiya"
+            ]
+        },
+        {
+            "id": "falafel",
+            "title": "Falafel",
+            "originalName": "فلافل",
+            "description": "Soaked chickpeas, never cooked ones - that is the whole lesson. A cooked chickpea falls apart in the oil and turns to paste.",
+            "category": "Hummus & Falafel",
+            "kosherType": "Parve",
+            "image": "images/Falafel.jpg",
+            "prepTime": 40,
+            "cookTime": 20,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "dried chickpeas",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "5",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1.5",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil for deep frying",
+                    "quantity": "1",
+                    "unit": "litre"
+                }
+            ],
+            "instructions": [
+                "Soak the chickpeas 12-24 hours. They are never cooked at any stage - that is what separates falafel from a chickpea patty.",
+                "Dry them well and grind with the onion, herbs and garlic in a meat grinder or strong blender, to a coarse crumb and not a paste.",
+                "Season with cumin, ground coriander, salt and pepper, and chill the mixture for an hour - it firms up in the cold.",
+                "Add the baking powder only just before frying. Any earlier and it loses its lift.",
+                "Heat the oil to 170C. Oil that is too hot burns the outside and leaves the middle raw.",
+                "Fry 3-4 minutes to a deep brown and drain. Serve in pita with tahini and salad. Parve."
+            ],
+            "tags": [
+                "falafel",
+                "fried",
+                "parve",
+                "street food"
+            ]
+        },
+        {
+            "id": "hummus-ful",
+            "title": "Hummus with Fava",
+            "originalName": "حمص فول",
+            "description": "Smooth hummus under a layer of hot seasoned fava beans. Not the Egyptian breakfast - this is a topping spread over hummus.",
+            "category": "Hummus & Falafel",
+            "kosherType": "Parve",
+            "image": "images/Hummus_Ful.jpg",
+            "prepTime": 20,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "prepared hummus",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried peeled fava beans",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "4",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "green chilli",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                }
+            ],
+            "instructions": [
+                "Soak the fava overnight and simmer about an hour and a half until soft and easily crushed.",
+                "Crush about a third in the pot and leave the rest whole, so a thick sauce forms around the beans.",
+                "Season with crushed garlic, cumin, lemon, salt and chopped chilli. Season while hot - cold fava absorbs nothing.",
+                "Spread a layer of hummus on a plate and sweep a wide well in it.",
+                "Pour the hot fava into the centre and pour olive oil generously over.",
+                "Scatter parsley. Parve - served with raw onion and pita."
+            ],
+            "tags": [
+                "hummus",
+                "fava",
+                "parve",
+                "hummusiya"
+            ]
+        },
+        {
+            "id": "hummus-mushrooms",
+            "title": "Hummus with Mushrooms",
+            "originalName": "חומוס פטריות",
+            "description": "A Tel Aviv invention from the nineties. Mushrooms seared with soy and garlic over hummus - entirely parve, which is why it caught on.",
+            "category": "Hummus & Falafel",
+            "kosherType": "Parve",
+            "image": "images/Hummus_Mushrooms.jpg",
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "prepared hummus",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "button mushrooms",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "4",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "soy sauce",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "kosher white wine",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Cut the mushrooms into thick slices. Thin ones disappear in the pan.",
+                "Heat a wide pan over high heat and sear in small batches - crowded mushrooms stew in their own water instead of browning.",
+                "Add the garlic and cook only half a minute, to the smell and not to the colour.",
+                "Deglaze with the wine, let it evaporate, then add soy and pepper.",
+                "Spread hummus on a plate and pour the hot mushrooms over with all their liquid.",
+                "Scatter parsley. Parve - the soy and wine must both be certified."
+            ],
+            "tags": [
+                "hummus",
+                "mushrooms",
+                "parve",
+                "tel aviv"
+            ]
+        },
+        {
+            "id": "hummus-egg-onion",
+            "title": "Hummus with Egg and Onion",
+            "originalName": "חומוס ביצה ובצל",
+            "description": "A brown egg cooked for seven hours, sharp red onion and hummus. The Friday morning plate.",
+            "category": "Hummus & Falafel",
+            "kosherType": "Parve",
+            "image": "images/Hummus_Egg_Onion.jpg",
+            "prepTime": 10,
+            "cookTime": 70,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "prepared hummus",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "4",
+                    "unit": "units"
+                },
+                {
+                    "name": "dry onion skins",
+                    "quantity": "2",
+                    "unit": "handfuls"
+                },
+                {
+                    "name": "red onion",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Cook the eggs in water with the onion skins on the lowest flame for at least an hour - they take on an amber colour and a faintly sweet taste. This is a hamin egg; without the skins it is only a hard-boiled one.",
+                "Cool in cold water and peel.",
+                "Slice the red onion into thin rings, salt lightly and rub between your fingers until it softens.",
+                "Toss the onion with sumac, lemon and olive oil.",
+                "Spread the hummus, halve the eggs over it and scatter the onion on top.",
+                "Drizzle olive oil and scatter parsley. Parve - an egg is neither meat nor dairy."
+            ],
+            "tags": [
+                "hummus",
+                "eggs",
+                "parve",
+                "breakfast"
+            ]
+        },
+        {
+            "id": "hummus-meat",
+            "title": "Hummus with Beef",
+            "originalName": "חומוס בשר",
+            "description": "Beef cooked until it collapses, in a thick sauce over hummus. The dish that turned hummus from breakfast into a meal.",
+            "category": "Hummus & Falafel",
+            "kosherType": "Meat",
+            "image": "images/Hummus_Meat.jpg",
+            "prepTime": 20,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "prepared hummus",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "beef chuck",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "toasted pine nuts",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Cut the beef into 2cm cubes and dry them on a towel. Wet meat will not brown.",
+                "Sear in small batches in hot olive oil until deeply crusted on all sides.",
+                "Remove, fry chopped onion in the same pot until golden, and add the tomato paste for a minute.",
+                "Return the meat, season with baharat, bay and salt, cover with water and simmer two hours on low heat until it falls apart under a fork.",
+                "Reduce the sauce uncovered until it coats a spoon.",
+                "Spread hummus, pour the meat and sauce into the centre and scatter pine nuts. Meat - there is not a drop of dairy in it."
+            ],
+            "tags": [
+                "hummus",
+                "beef",
+                "meat",
+                "main course"
+            ]
+        },
+        {
+            "id": "hummus-shawarma",
+            "title": "Hummus with Shawarma",
+            "originalName": "חומוס שווארמה",
+            "description": "Turkey shawarma in a pan, no rotating spit. What is sold on every high street in Israel.",
+            "category": "Hummus & Falafel",
+            "kosherType": "Meat",
+            "image": "images/Hummus_Shawarma.jpg",
+            "prepTime": 30,
+            "cookTime": 25,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "prepared hummus",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sliced turkey shawarma meat",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Toss the turkey slices with baharat, turmeric, cardamom, salt and oil and leave half an hour.",
+                "Heat an iron pan very hot and lay the slices in a single layer without stirring, a minute and a half each side - the edges must char.",
+                "Add thinly sliced onion and toss together three minutes more.",
+                "Make a tahini sauce with lemon and water - no yogurt, so it stays meat.",
+                "Spread hummus on a plate, pile the hot shawarma on and drizzle tahini over.",
+                "Serve with pickles, amba and pita. Meat."
+            ],
+            "tags": [
+                "hummus",
+                "shawarma",
+                "meat",
+                "street food"
+            ]
+        },
+        {
+            "id": "tahini-raw",
+            "title": "Tahini Sauce",
+            "originalName": "טחינה גולמית",
+            "description": "Three ingredients, and everyone fails it once: tahini seizes when you add water, and only then loosens.",
+            "category": "Hummus & Falafel",
+            "kosherType": "Parve",
+            "image": "images/Tahini_Raw.jpg",
+            "prepTime": 10,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "raw wholegrain tahini",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "2",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Stir the tahini, lemon, garlic and salt together in a bowl.",
+                "Add the water gradually. The mixture will split and seize into a stiff lump - this is normal and not a failure, and this is where most people throw it out.",
+                "Keep whisking. After half a minute it breaks back into a smooth pale sauce.",
+                "Add water a spoon at a time to the texture you want: thick for spreading, looser for pouring over shawarma.",
+                "Correct salt and lemon. Tahini always needs more salt than it seems.",
+                "Scatter cumin and parsley and drizzle olive oil. Parve - which is why it accompanies both meat and fish."
+            ],
+            "tags": [
+                "tahini",
+                "sauce",
+                "parve",
+                "basic"
+            ]
+        },
+        {
+            "id": "tahini-green",
+            "title": "Green Tahini",
+            "originalName": "טחינה ירוקה",
+            "description": "A whole bunch of parsley into the tahini. It stays green only if everything is cold and the blending is short.",
+            "category": "Hummus & Falafel",
+            "kosherType": "Parve",
+            "image": "images/Tahini_Green.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "raw tahini",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "3",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "ice water",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "green chilli",
+                    "quantity": "1/2",
+                    "unit": "unit"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Wash the herbs and dry them completely. Water on the leaves thins the sauce and dulls the colour.",
+                "Chop roughly and blend with lemon, garlic, chilli and salt.",
+                "Add the tahini and pulse only in short bursts - a blender left running heats the leaves and the green turns khaki.",
+                "Add ice water gradually to a pouring consistency.",
+                "Taste; if it is bitter it needs lemon, not salt.",
+                "Serve at once or keep refrigerated up to two days. Parve - it goes with fish, roasted vegetables and falafel."
+            ],
+            "tags": [
+                "tahini",
+                "herbs",
+                "parve",
+                "sauce"
+            ]
+        },
+        {
+            "id": "israeli-salad",
+            "title": "Israeli Salad",
+            "originalName": "סלט ישראלי",
+            "description": "The only difficulty is the knife. Half-centimetre dice, no food processor, no salt until the last moment.",
+            "category": "Salads & Pita",
+            "kosherType": "Parve",
+            "image": "images/Israeli_Salad.jpg",
+            "prepTime": 25,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "cucumbers",
+                    "quantity": "5",
+                    "unit": "units"
+                },
+                {
+                    "name": "ripe tomatoes",
+                    "quantity": "4",
+                    "unit": "units"
+                },
+                {
+                    "name": "red onion",
+                    "quantity": "1/2",
+                    "unit": "unit"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "fresh mint",
+                    "quantity": "6",
+                    "unit": "leaves"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Dice the cucumbers to half a centimetre. This is not decoration - a large cube separates the vegetables instead of mixing them.",
+                "Halve the tomatoes, scoop out the seeds and jelly and discard them. That liquid is what turns a salad into soup after ten minutes.",
+                "Chop the onion very fine and soak it a minute in the lemon juice to take the edge off.",
+                "Chop the herbs with a sharp knife, not scissors - a blunt blade bruises and blackens them.",
+                "Toss everything with olive oil and salt only at the table. Early salt draws water out of the cucumber.",
+                "Serve at once. Parve - which is why it reaches every table, meat or dairy."
+            ],
+            "tags": [
+                "salad",
+                "vegetables",
+                "parve",
+                "israeli"
+            ]
+        },
+        {
+            "id": "pita-bread",
+            "title": "Home-Baked Pita",
+            "originalName": "פיתה",
+            "description": "The pocket opens from steam, not from yeast. A scorching oven and thin dough - there is no third way.",
+            "category": "Salads & Pita",
+            "kosherType": "Parve",
+            "image": "images/Pita_Bread.jpg",
+            "prepTime": 90,
+            "cookTime": 6,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "bread flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "fine semolina for dusting",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "zaatar to serve",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Mix the yeast, sugar and water and wait ten minutes for foam. No foam means dead yeast and dough that will not rise.",
+                "Knead with the flour, salt and oil for eight minutes, to a smooth dough that stretches without tearing.",
+                "Prove an hour until doubled, divide into eight balls and rest twenty minutes more, covered - dough that has dried out will not puff.",
+                "Heat the oven to 250C with a tray or stone already inside. A lukewarm oven gives a flatbread, not a pita.",
+                "Roll each ball to a 4-5mm round, no thinner, and lay it on the scorching tray.",
+                "Bake 4-6 minutes. The pita balloons and then collapses - that is the sign the pocket has formed. Parve."
+            ],
+            "tags": [
+                "bread",
+                "baking",
+                "parve",
+                "basic"
+            ]
+        },
+        {
+            "id": "laffa",
+            "title": "Laffa",
+            "originalName": "לאפה",
+            "description": "A soft flatbread made to wrap around shawarma. Cooked on a dry pan - no pocket, no oven.",
+            "category": "Salads & Pita",
+            "kosherType": "Parve",
+            "image": "images/Laffa.jpg",
+            "prepTime": 80,
+            "cookTime": 4,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "plain flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "flour for rolling",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sesame seeds",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Knead a soft, oily dough - it should be stickier than pita dough, and that is what keeps it pliable as it cools.",
+                "Prove an hour, divide into six and rest twenty minutes.",
+                "Roll very thin, almost translucent, to a 30cm round. A thick laffa stiffens within minutes.",
+                "Heat an iron pan or an upturned saj over high heat, with no oil at all.",
+                "Cook one minute on the first side until brown spots appear, then turn for only half a minute.",
+                "Move straight onto a kitchen towel and cover - the trapped steam is what keeps it soft. Parve."
+            ],
+            "tags": [
+                "bread",
+                "shawarma",
+                "parve",
+                "saj"
+            ]
+        },
+        {
+            "id": "tahini-cauliflower",
+            "title": "Whole Roast Cauliflower with Tahini",
+            "originalName": "כרובית שלמה",
+            "description": "The newest Israeli dish on this site - born in Tel Aviv after 2010 and copied worldwide.",
+            "category": "Salads & Pita",
+            "kosherType": "Parve",
+            "image": "images/Tahini_Cauliflower.jpg",
+            "prepTime": 15,
+            "cookTime": 75,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "whole cauliflower",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "2",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "toasted hazelnuts",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Trim the stem so it sits flat and remove only the outer leaves. It stays whole.",
+                "Blanch it eight minutes in heavily salted boiling water, head down. This cooks the inside before the outside burns.",
+                "Dry it thoroughly - a wet cauliflower steams in the oven instead of browning.",
+                "Rub olive oil and coarse salt into every crevice and roast at 200C for about an hour, to a deep brown crust.",
+                "Make a thick tahini sauce with lemon, garlic and cold water.",
+                "Serve whole on a bed of the tahini, scatter sumac and nuts, and break it apart with a spoon at the table. Parve."
+            ],
+            "tags": [
+                "cauliflower",
+                "tahini",
+                "parve",
+                "roasted"
+            ]
+        },
+        {
+            "id": "salat-chatzilim-mayo",
+            "title": "Burnt Aubergine Salad with Mayonnaise",
+            "originalName": "סלט חצילים",
+            "description": "Charred aubergine and mayonnaise - a pairing born in Israel and nowhere else. Mayonnaise is egg and oil, so it is parve.",
+            "category": "Salads & Pita",
+            "kosherType": "Parve",
+            "image": "images/Salat_Chatzilim_Mayo.jpg",
+            "prepTime": 20,
+            "cookTime": 45,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "aubergines",
+                    "quantity": "3",
+                    "unit": "units"
+                },
+                {
+                    "name": "mayonnaise",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1/2",
+                    "unit": "unit"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "2",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Char the aubergines directly over an open flame until the skin is entirely black and they collapse, about 15 minutes. An oven gives a cooked aubergine with no smoke in it.",
+                "Put them in a covered bowl for ten minutes - the steam loosens the skin.",
+                "Peel and drain in a sieve for half an hour. An undrained aubergine turns the salad to liquid within the hour.",
+                "Chop with a knife, not a processor. A processor makes grey puree of it.",
+                "Mix with finely chopped onion, garlic, lemon, salt and pepper, and fold the mayonnaise in only at the end.",
+                "Chill an hour before serving. Parve - the mayonnaise must be free of dairy."
+            ],
+            "tags": [
+                "aubergine",
+                "salad",
+                "parve",
+                "spread"
+            ]
+        },
+        {
+            "id": "chatzilim-tahini",
+            "title": "Aubergine with Tahini",
+            "originalName": "חצילים בטחינה",
+            "description": "The same charred aubergine, this time with tahini instead of mayonnaise - the version that comes to the table beside the meat.",
+            "category": "Salads & Pita",
+            "kosherType": "Parve",
+            "image": "images/Chatzilim_Tahini.jpg",
+            "prepTime": 20,
+            "cookTime": 40,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "aubergines",
+                    "quantity": "3",
+                    "unit": "units"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "3",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate seeds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "fresh mint",
+                    "quantity": "8",
+                    "unit": "leaves"
+                }
+            ],
+            "instructions": [
+                "Char the aubergines over an open flame until the skin is black and the flesh entirely soft.",
+                "Peel and drain half an hour. Keep the long strands rather than chopping fine - the texture is half the dish.",
+                "Make a thick tahini: tahini, lemon, garlic, salt and cold water added gradually until smooth.",
+                "Fold the aubergine into the tahini with a light hand and few strokes.",
+                "Correct lemon and salt. Tahini mutes salt, so it needs more than it seems.",
+                "Scatter pomegranate seeds and mint and pour olive oil over. Parve."
+            ],
+            "tags": [
+                "aubergine",
+                "tahini",
+                "parve",
+                "salad"
+            ]
+        },
+        {
+            "id": "chamutzim",
+            "title": "Home-Pickled Cucumbers",
+            "originalName": "חמוצים",
+            "description": "Cucumbers in a salt ferment, with no vinegar. Five days on the counter and the jar does the work itself.",
+            "category": "Salads & Pita",
+            "kosherType": "Parve",
+            "image": "images/Chamutzim.jpg",
+            "prepTime": 30,
+            "cookTime": 0,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "small pickling cucumbers",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1.5",
+                    "unit": "litres"
+                },
+                {
+                    "name": "coarse non-iodised salt",
+                    "quantity": "4",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "8",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "dill",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "grape leaves",
+                    "quantity": "3",
+                    "unit": "leaves"
+                },
+                {
+                    "name": "black peppercorns",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dried chillies",
+                    "quantity": "2",
+                    "unit": "units"
+                }
+            ],
+            "instructions": [
+                "Wash the cucumbers and trim a millimetre off the blossom end - the enzyme there softens pickles, and without it they stay crisp.",
+                "Boil the water with the salt, stir until dissolved and cool completely. Warm brine cooks the cucumber.",
+                "Pack a clean jar tightly with the cucumbers, layering in the garlic, dill, chillies and grape leaves.",
+                "Pour the brine over to cover completely and weigh them down - a cucumber floating above the liquid will mould.",
+                "Leave on the counter 4-6 days. The water clouds and the liquid bubbles - that is fermentation, not spoilage.",
+                "Move to the fridge when sour enough. Parve - they keep a month."
+            ],
+            "tags": [
+                "pickles",
+                "fermented",
+                "parve",
+                "preserving"
+            ]
+        },
+        {
+            "id": "salat-kruv",
+            "title": "Falafel-Stand Cabbage Salad",
+            "originalName": "סלט כרוב",
+            "description": "White cabbage shaved paper-thin in vinegar and oil. What fills the bottom half of the pita at every stand in the country.",
+            "category": "Salads & Pita",
+            "kosherType": "Parve",
+            "image": "images/Salat_Kruv.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white cabbage",
+                    "quantity": "1/2",
+                    "unit": "head"
+                },
+                {
+                    "name": "carrot",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "kosher wine vinegar",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "caraway seeds",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Shave the cabbage as thin as possible, on a mandoline or with a long knife. A thick slice will not take up the dressing.",
+                "Salt it and rub with your hands for a full minute until it softens and gives up water.",
+                "Squeeze the water out and throw it away. This is the step that turns a watery salad into one that keeps two days.",
+                "Grate the carrot on the coarse side and add it.",
+                "Whisk the vinegar, oil, sugar and caraway and pour over the cabbage.",
+                "Rest half an hour before serving. Parve - the vinegar must be certified."
+            ],
+            "tags": [
+                "cabbage",
+                "salad",
+                "parve",
+                "falafel"
+            ]
+        },
+        {
+            "id": "bourekas-israeli",
+            "title": "Cheese Bourekas",
+            "originalName": "בורקס גבינה",
+            "description": "The shape declares the filling - triangle for cheese, round for potato. A code set in Israeli bakeries and kept ever since.",
+            "category": "Salads & Pita",
+            "kosherType": "Dairy",
+            "image": "images/Bourekas_Israeli.jpg",
+            "prepTime": 30,
+            "cookTime": 30,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "puff pastry",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "Bulgarian cheese",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "ricotta cheese",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "dill, chopped",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sesame seeds",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "egg yolk for glazing",
+                    "quantity": "1",
+                    "unit": "unit"
+                }
+            ],
+            "instructions": [
+                "Crumble the Bulgarian cheese and mix with the ricotta, one egg, dill and pepper. No salt - the cheese is salty enough.",
+                "Roll the pastry to 3mm and cut 10cm squares.",
+                "Put a spoon of filling in the centre, fold to a triangle and seal with fork tines. An open boureka loses all its filling in the oven.",
+                "Arrange on baking paper with space between them - puff pastry spreads as it rises.",
+                "Brush with beaten yolk and scatter sesame generously.",
+                "Bake at 200C for 25-30 minutes to a deep gold. Dairy - served with a hard-boiled egg and pickles."
+            ],
+            "tags": [
+                "bourekas",
+                "pastry",
+                "dairy",
+                "bakery"
+            ]
+        },
+        {
+            "id": "salat-selek",
+            "title": "Roasted Beetroot with Tahini",
+            "originalName": "סלט סלק",
+            "description": "Beetroot roasted, not boiled - the oven concentrates the sweetness instead of washing it into the water.",
+            "category": "Salads & Pita",
+            "kosherType": "Parve",
+            "image": "images/Salat_Selek.jpg",
+            "prepTime": 15,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "beetroots",
+                    "quantity": "5",
+                    "unit": "units"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "2",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "date syrup",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Wrap each beetroot in foil with a little salt and oil and roast at 200C for about an hour, until a knife goes in without resistance.",
+                "Roast, do not boil - a beetroot cooked in water loses its colour and flavour into the pot.",
+                "Peel while still warm; the skin slips off in your hand.",
+                "Cut into 1cm dice and season with lemon, salt and olive oil while still hot.",
+                "Make a loose tahini sauce and drizzle it over without stirring - the contrast of white against purple is part of the dish.",
+                "Scatter chopped walnuts and coriander and trickle date syrup over. Parve."
+            ],
+            "tags": [
+                "beetroot",
+                "tahini",
+                "parve",
+                "roasted"
+            ]
+        },
+        {
+            "id": "meurav-yerushalmi",
+            "title": "Jerusalem Mixed Grill",
+            "originalName": "מעורב ירושלמי",
+            "description": "Born at the Mahane Yehuda market from the cuts the butchers could not sell. The plancha must be scorching and never crowded.",
+            "category": "On the Grill",
+            "kosherType": "Meat",
+            "image": "images/Meurav_Yerushalmi.jpg",
+            "prepTime": 30,
+            "cookTime": 25,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "chicken hearts",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "chicken liver",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "chicken spleen",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "chicken breast",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "3",
+                    "unit": "units"
+                },
+                {
+                    "name": "baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "The liver must be broiled over an open flame until its colour has changed all through, then rinsed. This is a kashrut requirement, not a preference, and without it the dish is not kosher.",
+                "Cut everything into strips of roughly the same size so they finish together.",
+                "Fry sliced onion in oil over medium heat for a full twenty minutes, to a deep sweet brown. This is the base.",
+                "Raise the heat high and add the hearts and spleen - they are the toughest and need the longest.",
+                "After five minutes add the breast, and the liver last of all; added early it dries out in moments.",
+                "Season with baharat, cumin, turmeric and salt, toss a minute and serve in pita with pickles. Meat."
+            ],
+            "tags": [
+                "mixed grill",
+                "grill",
+                "meat",
+                "jerusalem"
+            ]
+        },
+        {
+            "id": "shipudei-pargiyot",
+            "title": "Chicken Thigh Skewers",
+            "originalName": "שיפודי פרגיות",
+            "description": "Thigh, never breast. The cut that carries enough fat to survive coals without drying.",
+            "category": "On the Grill",
+            "kosherType": "Meat",
+            "image": "images/Shipudei_Pargiyot.jpg",
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "boneless chicken thighs",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "6",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Cut the thighs into 4cm cubes. Smaller than that and they dry out over the coals.",
+                "Mix a marinade of oil, paprika, garlic, cumin and pepper, without the salt and lemon.",
+                "Marinate in the fridge two hours to overnight. The lemon and salt go in only half an hour before grilling - acid over a long time \"cooks\" the meat and turns it mealy.",
+                "Thread tightly onto skewers so the cubes touch; that is what keeps the inside juicy.",
+                "Grill over hot coals four minutes a side. Turn once and no more.",
+                "Rest five minutes covered before serving, and scatter parsley. Meat."
+            ],
+            "tags": [
+                "chicken",
+                "skewers",
+                "meat",
+                "barbecue"
+            ]
+        },
+        {
+            "id": "kebab-al-haesh",
+            "title": "Grilled Kebab",
+            "originalName": "קבב על האש",
+            "description": "Lamb fat is what holds a kebab on the skewer. Lean meat falls into the coals - that is not folklore.",
+            "category": "On the Grill",
+            "kosherType": "Meat",
+            "image": "images/Kebab_Al_Haesh.jpg",
+            "prepTime": 40,
+            "cookTime": 12,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground lamb",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "hot paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "matzah meal",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "The mixture needs at least 20 percent fat. Too lean a grind will not hold on the skewer under any seasoning.",
+                "Grate the onion and squeeze every drop of liquid out of it by hand. Wet onion is the first cause of a kebab that falls apart.",
+                "Knead the meat with the onion, parsley, spices and matzah meal for a full five minutes, until the mixture turns sticky and pulls in threads.",
+                "Chill an hour. A cold mixture clings to the skewer; one at room temperature slides off.",
+                "Wet your hands and shape a cylinder around a flat skewer with even pressure and no air pockets.",
+                "Grill over medium-hot coals 5-6 minutes in total, turning once. Meat."
+            ],
+            "tags": [
+                "kebab",
+                "lamb",
+                "meat",
+                "barbecue"
+            ]
+        },
+        {
+            "id": "shawarma-hodu",
+            "title": "Oven Turkey Shawarma",
+            "originalName": "שווארמה הודו",
+            "description": "Turkey breast layered with lamb fat on an improvised vertical spit. In Israel shawarma means turkey, not lamb.",
+            "category": "On the Grill",
+            "kosherType": "Meat",
+            "image": "images/Shawarma_Hodu.jpg",
+            "prepTime": 40,
+            "cookTime": 90,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "sliced turkey breast",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "lamb fat",
+                    "quantity": "150",
+                    "unit": "g"
+                },
+                {
+                    "name": "baharat",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Slice the turkey half a centimetre thick and marinate overnight in the spices, oil, lemon and grated onion.",
+                "Thread onto a vertical oven spit alternating with slices of the lamb fat - it melts downward and bastes the whole stack. Without it this is dry turkey breast.",
+                "Press hard so the stack is dense, and set a whole onion at the base to steady it.",
+                "Roast at 180C for about an hour and a half, turning every twenty minutes.",
+                "Raise to 230C for the last ten minutes to char the outside.",
+                "Carve from the outside inwards with a long knife and serve in laffa with tahini and pickles. Meat."
+            ],
+            "tags": [
+                "shawarma",
+                "turkey",
+                "meat",
+                "oven"
+            ]
+        },
+        {
+            "id": "steak-entrecote",
+            "title": "Grilled Entrecote",
+            "originalName": "אנטריקוט על הגריל",
+            "description": "Coarse salt and fire. Kosher meat is already salted in koshering, so it behaves differently on coals - less salt, more drying.",
+            "category": "On the Grill",
+            "kosherType": "Meat",
+            "image": "images/Steak_Entrecote.jpg",
+            "prepTime": 40,
+            "cookTime": 10,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "entrecote steaks, 3cm thick",
+                    "quantity": "4",
+                    "unit": "units"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "4",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "fresh rosemary",
+                    "quantity": "3",
+                    "unit": "sprigs"
+                },
+                {
+                    "name": "lemon",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Take the meat out of the fridge a full hour ahead. A cut cold in the middle burns outside before the centre warms.",
+                "Dry it thoroughly with paper towel. Koshered meat releases more liquid because of the salting, which is why it resists browning.",
+                "Salt lightly - koshering has already driven salt inside. A normal amount on top gives an oversalted steak.",
+                "Grill over hot coals 3-4 minutes a side without moving it, until the bars mark clearly.",
+                "Move to a cooler part of the grill, brush with oil, garlic and rosemary, and finish to 52-54C in the centre.",
+                "Rest eight minutes before cutting - cutting early empties the juices onto the board. Meat."
+            ],
+            "tags": [
+                "steak",
+                "beef",
+                "meat",
+                "barbecue"
+            ]
+        },
+        {
+            "id": "arais",
+            "title": "Arayes",
+            "originalName": "ערייס",
+            "description": "Pita stuffed with ground meat and grilled over coals. The fat soaks inward and the bread crisps outside.",
+            "category": "On the Grill",
+            "kosherType": "Meat",
+            "image": "images/Arais.jpg",
+            "prepTime": 25,
+            "cookTime": 14,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pitas",
+                    "quantity": "6",
+                    "unit": "units"
+                },
+                {
+                    "name": "ground lamb",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "baharat",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "green chilli",
+                    "quantity": "1",
+                    "unit": "unit"
+                }
+            ],
+            "instructions": [
+                "Mix the meat with squeezed grated onion, parsley, tomato paste, baharat, chilli and salt.",
+                "Halve each pita and open the pocket. Do not separate it into two discs - the hinge holds the filling in.",
+                "Spread a very thin layer of meat, about half a centimetre. A thick layer stays raw while the bread burns.",
+                "Press firmly to force the air out and brush both outer faces with olive oil.",
+                "Grill over medium coals 6-7 minutes a side with a light weight on top, until the meat browns at the edges.",
+                "Cut into triangles and serve with tahini and lemon. Meat."
+            ],
+            "tags": [
+                "arayes",
+                "pita",
+                "meat",
+                "barbecue"
+            ]
+        },
+        {
+            "id": "merguez",
+            "title": "Merguez Sausages",
+            "originalName": "נקניקיות מרגז",
+            "description": "A red lamb sausage built on harissa. It came with North African immigrants and became a fixture at every Israeli barbecue.",
+            "category": "On the Grill",
+            "kosherType": "Meat",
+            "image": "images/Merguez.jpg",
+            "prepTime": 60,
+            "cookTime": 12,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "ground lamb",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "lamb fat",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "harissa",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "6",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "natural sausage casings",
+                    "quantity": "2",
+                    "unit": "metres"
+                },
+                {
+                    "name": "very cold water",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Soak the casings in warm water for half an hour and rinse them through.",
+                "Mix the meat with the fat, harissa, spices, garlic and water, everything ice cold. Fat that has warmed smears and the sausage splits as it cooks.",
+                "Chill the mixture an hour, then fill the casings through a funnel without packing them to the limit.",
+                "Twist into 12cm links, alternating direction each time so they do not unwind.",
+                "Prick each one twice with a needle - otherwise steam bursts them on the fire.",
+                "Grill over medium coals 10-12 minutes, turning often. Meat."
+            ],
+            "tags": [
+                "merguez",
+                "sausage",
+                "meat",
+                "spicy"
+            ]
+        },
+        {
+            "id": "shipudei-levavot",
+            "title": "Chicken Heart Skewers",
+            "originalName": "שיפודי לבבות",
+            "description": "On every Israeli grill menu and almost nowhere else. Eight minutes exactly, no more.",
+            "category": "On the Grill",
+            "kosherType": "Meat",
+            "image": "images/Shipudei_Levavot.jpg",
+            "prepTime": 30,
+            "cookTime": 8,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken hearts",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "5",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                }
+            ],
+            "instructions": [
+                "Trim the top of each heart and remove any clots. Rinse thoroughly in cold water until it runs clear.",
+                "Marinate an hour in oil, garlic, paprika and cumin. The lemon and salt join only fifteen minutes before grilling.",
+                "Thread tightly onto skewers, about eight hearts each.",
+                "Grill over scorching coals four minutes a side. An overcooked heart turns to rubber and there is no way back.",
+                "Check one: the inside should be pink-brown, not grey.",
+                "Scatter coriander, squeeze lemon over and serve at once. Meat."
+            ],
+            "tags": [
+                "hearts",
+                "skewers",
+                "meat",
+                "barbecue"
+            ]
+        },
+        {
+            "id": "chatzil-al-haesh",
+            "title": "Charred Aubergine",
+            "originalName": "חציל על האש",
+            "description": "The parve dish that sits on the same coals as the meat. Skin burnt through, inside like cream.",
+            "category": "On the Grill",
+            "kosherType": "Parve",
+            "image": "images/Chatzil_Al_Haesh.jpg",
+            "prepTime": 10,
+            "cookTime": 20,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "large aubergines",
+                    "quantity": "4",
+                    "unit": "units"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "2",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "tomato",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1/3",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Prick each aubergine in four places with a fork. A sealed one explodes on the coals.",
+                "Set them straight onto hot coals, no skewer, and turn every five minutes.",
+                "It is ready when it collapses under its own weight and the skin is black and brittle - about 20 minutes.",
+                "Split lengthways and serve in the skin, so the smoky flesh stays in its own dish.",
+                "Scatter coarse salt and pour tahini loosened with lemon and garlic straight in.",
+                "Add diced tomato, parsley and olive oil. Parve - it sits beside the meat without difficulty."
+            ],
+            "tags": [
+                "aubergine",
+                "grill",
+                "parve",
+                "smoky"
+            ]
+        },
+        {
+            "id": "lavrak-grill",
+            "title": "Whole Grilled Sea Bass",
+            "originalName": "לברק על הגריל",
+            "description": "A Mediterranean fish with fins and scales, whole over the coals. The scales stay on - they are the shield against the fire.",
+            "category": "On the Grill",
+            "kosherType": "Parve",
+            "image": "images/Lavrak_Grill.jpg",
+            "prepTime": 20,
+            "cookTime": 16,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole sea bass, cleaned",
+                    "quantity": "4",
+                    "unit": "units"
+                },
+                {
+                    "name": "lemons",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "6",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "zaatar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Sea bass has fins and scales and is therefore kosher. Ask the fishmonger to gut it and leave the scales on.",
+                "Score three diagonal slashes on each side - the heat reaches inside and the fish cooks evenly.",
+                "Fill the cavity with lemon slices, garlic and parsley, and salt generously inside and out.",
+                "Oil the grill bars, not the fish, and heat them thoroughly first. A cold grate is why fish sticks and tears.",
+                "Grill eight minutes a side over medium coals and turn once only, using two spatulas.",
+                "Pour olive oil and lemon over and serve. Parve - fish counts as parve and may accompany any meal."
+            ],
+            "tags": [
+                "fish",
+                "grill",
+                "parve",
+                "mediterranean"
+            ]
+        },
+        {
+            "id": "ptitim",
+            "title": "Ptitim",
+            "originalName": "פתיתים",
+            "description": "Invented in the fifties at Ben-Gurion's instruction as a rice substitute during austerity. Toasting them dry is the whole difference.",
+            "category": "Home Cooking",
+            "kosherType": "Parve",
+            "image": "images/Ptitim.jpg",
+            "prepTime": 10,
+            "cookTime": 25,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ptitim (Israeli couscous)",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Fry chopped onion in the oil to a deep gold, about seven minutes.",
+                "Add the dry ptitim and toast them in the pan 3-4 minutes until they turn light brown and smell nutty. Without toasting they come out sticky.",
+                "Add the tomato paste and turmeric and stir half a minute.",
+                "Pour in boiling water - cold water halts the cooking and makes them absorb unevenly.",
+                "Cover and cook on low heat 12-15 minutes until all the liquid is absorbed.",
+                "Turn off, lay a towel between pot and lid for five minutes, and separate with a fork. Parve."
+            ],
+            "tags": [
+                "ptitim",
+                "side dish",
+                "parve",
+                "austerity"
+            ]
+        },
+        {
+            "id": "schnitzel",
+            "title": "Chicken Schnitzel",
+            "originalName": "שניצל",
+            "description": "It came from Vienna as veal and was rebuilt here on chicken breast, because veal was out of reach. Coarse crumbs, not fine ones.",
+            "category": "Home Cooking",
+            "kosherType": "Meat",
+            "image": "images/Schnitzel.jpg",
+            "prepTime": 25,
+            "cookTime": 15,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken breast",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": "units"
+                },
+                {
+                    "name": "coarse breadcrumbs",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic powder",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Slice the breast thin and flatten between two sheets of plastic to an even half centimetre. An uneven slice stays raw in one place and burns in another.",
+                "Season the meat itself with salt, pepper and paprika, not only the coating.",
+                "Pass through flour, shake well, then beaten egg, then crumbs pressed on firmly.",
+                "Let them stand 15 minutes before frying. That is what stops the coating peeling off in the oil.",
+                "Fry in a centimetre of oil at 170C, three minutes a side, to golden.",
+                "Drain on a rack, not on paper - paper traps steam and softens the crust. Meat - no butter and no cheese."
+            ],
+            "tags": [
+                "schnitzel",
+                "chicken",
+                "meat",
+                "family"
+            ]
+        },
+        {
+            "id": "kebab-siniya",
+            "title": "Kebab in Tahini",
+            "originalName": "קבב בסיניה",
+            "description": "Kebab baked under a layer of tahini. The tahini sets and browns while the meat cooks inside it.",
+            "category": "Home Cooking",
+            "kosherType": "Meat",
+            "image": "images/Kebab_Siniya.jpg",
+            "prepTime": 30,
+            "cookTime": 40,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground beef",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Knead the meat with squeezed grated onion, parsley, baharat and salt to a sticky mixture.",
+                "Press into a tray in a layer a centimetre and a half thick and bake at 220C for ten minutes, until it browns and releases fat.",
+                "Pour off the fat that has gathered. Without this the tahini floats on it instead of baking onto the meat.",
+                "Make a thin tahini with lemon, water and salt - thinner than a normal sauce, because it thickens in the oven.",
+                "Pour it over in an even layer, scatter pine nuts and return to the oven for 20-25 minutes.",
+                "It is ready when the tahini takes brown patches and the edges bubble. Meat - tahini is sesame, not dairy."
+            ],
+            "tags": [
+                "kebab",
+                "tahini",
+                "meat",
+                "baked"
+            ]
+        },
+        {
+            "id": "ktzitzot-basar",
+            "title": "Beef Patties in Tomato Sauce",
+            "originalName": "קציצות בקר",
+            "description": "Tuesday dinner. The patties go into the sauce raw and cook in it - that is what keeps them soft.",
+            "category": "Home Cooking",
+            "kosherType": "Meat",
+            "image": "images/Ktzitzot_Basar.jpg",
+            "prepTime": 25,
+            "cookTime": 50,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ground beef",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "slices of bread",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Soak the bread in water and squeeze it out. Soaked bread rather than dry crumbs is what gives a soft patty.",
+                "Knead briefly with the meat, egg, grated onion, paprika, salt and pepper. Long kneading tightens the protein and toughens them.",
+                "Shape into balls with wet hands and chill half an hour.",
+                "Make the sauce: fry onion, add the paste for a minute, then the crushed tomatoes, sugar, salt and paprika. Simmer ten minutes.",
+                "Lower the raw patties into the simmering sauce without frying them first. They release flavour into the sauce instead of sealing it in.",
+                "Cook covered on low heat for 40 minutes. Serve with rice or ptitim. Meat."
+            ],
+            "tags": [
+                "patties",
+                "beef",
+                "meat",
+                "weeknight"
+            ]
+        },
+        {
+            "id": "toast-gvina",
+            "title": "Kiosk Cheese Toast",
+            "originalName": "טוסט גבינה",
+            "description": "White bread, yellow cheese, tomato and zaatar, in a press. The cheapest meal you can buy in Israel.",
+            "category": "Home Cooking",
+            "kosherType": "Dairy",
+            "image": "images/Toast_Gvina.jpg",
+            "prepTime": 10,
+            "cookTime": 8,
+            "servings": 2,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "slices of white bread",
+                    "quantity": "4",
+                    "unit": "units"
+                },
+                {
+                    "name": "yellow cheese",
+                    "quantity": "150",
+                    "unit": "g"
+                },
+                {
+                    "name": "tomato",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "green olives",
+                    "quantity": "10",
+                    "unit": "units"
+                },
+                {
+                    "name": "zaatar",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "soft butter",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "pickled cucumber",
+                    "quantity": "1",
+                    "unit": "unit"
+                }
+            ],
+            "instructions": [
+                "Butter the outer face of each slice - that is what browns in the press, not the inside.",
+                "Lay the cheese on the bottom slice in a double layer so it melts from both directions.",
+                "Dry the tomato slices on paper towel. A wet tomato turns the bread to sponge.",
+                "Scatter zaatar and pepper and add chopped olives.",
+                "Press in a hot sandwich press 5-8 minutes, until cheese escapes at the sides and caramelises on the iron.",
+                "Cut on the diagonal and serve with a pickle. Dairy - there is no meat in it in any form."
+            ],
+            "tags": [
+                "toast",
+                "cheese",
+                "dairy",
+                "kiosk"
+            ]
+        },
+        {
+            "id": "salat-tuna",
+            "title": "Tuna Salad",
+            "originalName": "סלט טונה",
+            "description": "A tin of tuna, mayonnaise and onion. The meal waiting in every Israeli fridge, and parve, because tuna is fish.",
+            "category": "Home Cooking",
+            "kosherType": "Parve",
+            "image": "images/Salat_Tuna.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "tuna in oil",
+                    "quantity": "2",
+                    "unit": "tins"
+                },
+                {
+                    "name": "mayonnaise",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "red onion",
+                    "quantity": "1/2",
+                    "unit": "unit"
+                },
+                {
+                    "name": "pickled cucumbers",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "hard-boiled eggs",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dill, chopped",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Drain the tuna thoroughly and press it in a sieve. Oil left in the tin thins the mayonnaise and the salad collapses.",
+                "Flake it with a fork into strands rather than mashing it to paste.",
+                "Chop the red onion very fine and soak it a minute in lemon to soften it.",
+                "Dice the pickles small and chop the eggs roughly.",
+                "Mix everything with mayonnaise, dill, lemon, salt and pepper.",
+                "Chill half an hour before serving. Parve - fish and egg are not meat, and the mayonnaise contains no dairy."
+            ],
+            "tags": [
+                "tuna",
+                "salad",
+                "parve",
+                "fridge"
+            ]
+        },
+        {
+            "id": "chavita-pitriot",
+            "title": "Mushroom and Spring Onion Omelette",
+            "originalName": "חביתת פטריות",
+            "description": "Supper for whoever did not get round to cooking. Medium-low heat - an omelette on high heat is a brown, tough one.",
+            "category": "Home Cooking",
+            "kosherType": "Parve",
+            "image": "images/Chavita_Pitriot.jpg",
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "eggs",
+                    "quantity": "5",
+                    "unit": "units"
+                },
+                {
+                    "name": "button mushrooms",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "spring onions",
+                    "quantity": "4",
+                    "unit": "stalks"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Sear sliced mushrooms in a hot pan without stirring until browned, about five minutes. Stirring early draws the water out of them.",
+                "Add chopped spring onion for half a minute only.",
+                "Beat the eggs with a spoon of water, salt and pepper. The water turns to steam and lifts the omelette.",
+                "Lower the heat, pour the eggs in and draw the edges inward with a spatula so the liquid runs out.",
+                "While the top is still slightly glossy, fold it in half. An omelette dry in the pan will be too dry on the plate.",
+                "Scatter parsley and serve with bread. Parve - an egg is neither meat nor dairy."
+            ],
+            "tags": [
+                "omelette",
+                "eggs",
+                "parve",
+                "supper"
+            ]
+        },
+        {
+            "id": "orez-itriot",
+            "title": "Rice with Toasted Noodles",
+            "originalName": "אורז עם איטריות",
+            "description": "The noodles are fried to a deep brown before the rice goes in. Without that step it is just rice with pasta in it.",
+            "category": "Home Cooking",
+            "kosherType": "Parve",
+            "image": "images/Orez_Itriot.jpg",
+            "prepTime": 10,
+            "cookTime": 25,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "angel hair noodles",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1/2",
+                    "unit": "unit"
+                },
+                {
+                    "name": "flaked almonds",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Rinse the rice in cold water until it runs clear and drain. Surplus starch is what glues the grains together.",
+                "Break the noodles into 2cm lengths.",
+                "Heat the oil in the pot and fry the noodles to a deep brown, 3-4 minutes, stirring constantly. They burn in a second.",
+                "Add the drained rice and stir a minute so every grain is coated in oil.",
+                "Pour in boiling water, salt and turmeric, bring to a boil once, then cover and drop to the lowest heat for 18 minutes.",
+                "Turn off and rest ten minutes without lifting the lid, then separate with a fork. Parve."
+            ],
+            "tags": [
+                "rice",
+                "side dish",
+                "parve",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "pashtida",
+            "title": "Courgette Pashtida",
+            "originalName": "פשטידת ירקות",
+            "description": "A kibbutz dining-hall institution: a vegetable, eggs, cheese and a tin. This version has no pastry and no fuss.",
+            "category": "Home Cooking",
+            "kosherType": "Dairy",
+            "image": "images/Pashtida.jpg",
+            "prepTime": 25,
+            "cookTime": 45,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "courgettes",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "5",
+                    "unit": "units"
+                },
+                {
+                    "name": "Bulgarian cheese",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "grated yellow cheese",
+                    "quantity": "150",
+                    "unit": "g"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": "unit"
+                },
+                {
+                    "name": "dill, chopped",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Grate the courgettes coarsely, salt them and leave in a colander for 20 minutes.",
+                "Squeeze them hard by hand. Unsqueezed courgette gives a wet pashtida, and it is the one mistake the oven cannot fix.",
+                "Fry chopped onion to gold and let it cool a little.",
+                "Beat the eggs and add the crumbled and grated cheeses, flour, baking powder, dill and pepper.",
+                "Fold in the courgettes and onion and pour into a greased tin.",
+                "Bake at 180C for about 45 minutes, until the centre is set and the top golden. Dairy - eaten hot or cold."
+            ],
+            "tags": [
+                "pashtida",
+                "courgette",
+                "dairy",
+                "kibbutz"
+            ]
+        },
+        {
+            "id": "dag-amnon",
+            "title": "Fried Tilapia",
+            "originalName": "אמנון מטוגן",
+            "description": "The fish of the Sea of Galilee, fried whole in nothing but flour. The promenade restaurants in Tiberias do no more with it, and they are right.",
+            "category": "Home Cooking",
+            "kosherType": "Parve",
+            "image": "images/Dag_Amnon.jpg",
+            "prepTime": 15,
+            "cookTime": 14,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "whole tilapia, cleaned",
+                    "quantity": "4",
+                    "unit": "units"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic powder",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "lemons",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Tilapia has fins and scales and is kosher. Scale it and dry it thoroughly.",
+                "Score two diagonal slashes on each side and salt inside and out for fifteen minutes.",
+                "Dry it again - salt draws water, and a wet fish spits in the oil instead of crisping.",
+                "Mix the flour, paprika and garlic powder and coat the fish thinly, shaking off the excess.",
+                "Shallow-fry at 180C, 6-7 minutes a side, to a golden crisp crust.",
+                "Drain on a rack, squeeze lemon over and scatter parsley. Parve."
+            ],
+            "tags": [
+                "fish",
+                "fried",
+                "parve",
+                "galilee"
+            ]
+        },
+        {
+            "id": "malabi",
+            "title": "Malabi",
+            "originalName": "מלבי",
+            "description": "The street-stall dessert, in a plastic cup with pink syrup and peanuts. Cornflour, not gelatine.",
+            "category": "Israeli Sweets",
+            "kosherType": "Dairy",
+            "image": "images/Malabi.jpg",
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "milk",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cornflour",
+                    "quantity": "6",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "rose syrup",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "chopped peanuts",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "desiccated coconut",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "chopped pistachios",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Dissolve the cornflour in one cup of the cold liquid. Cornflour added to hot liquid forms lumps that never break down.",
+                "Heat the rest with the sugar to just below the boil.",
+                "Pour the cornflour mixture in in a thin stream, whisking constantly.",
+                "Cook 3-4 minutes, stirring, until it thickens and coats a spoon. Do not let it boil - boiling breaks the set.",
+                "Off the heat add the rose water and pour into cups. Cover with cling film touching the surface so no skin forms.",
+                "Chill four hours, pour the syrup over and scatter peanuts, coconut and pistachios. Dairy."
+            ],
+            "tags": [
+                "malabi",
+                "dessert",
+                "dairy",
+                "street food"
+            ]
+        },
+        {
+            "id": "halva-tahini",
+            "title": "Home-Made Halva",
+            "originalName": "חלבה",
+            "description": "Sesame and sugar only - entirely parve, despite what the Hebrew name looks like. Syrup at exactly 118C.",
+            "category": "Israeli Sweets",
+            "kosherType": "Parve",
+            "image": "images/Halva_Tahini.jpg",
+            "prepTime": 20,
+            "cookTime": 15,
+            "servings": 12,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "raw wholegrain tahini",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried soapwort root",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "chopped pistachios",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "The Hebrew name shares three letters with the word for milk, but there is no dairy of any kind in it - this is sesame, sugar and water. Fully parve.",
+                "Boil the sugar, water and lemon to exactly 118C on a sugar thermometer. Lower and the halva never sets; higher and it sets like glass.",
+                "Warm the tahini to 45C. Cold tahini splits from hot syrup immediately.",
+                "Pour the syrup into the tahini in a thin stream, stirring with a spatula and not a mixer - mechanical mixing destroys the fibrous structure, and that structure is exactly what gives halva its strands.",
+                "Stir for only 30-40 seconds, until streaks appear, then stop at once.",
+                "Transfer to a lined tin, scatter pistachios, and cool 24 hours before cutting. Parve."
+            ],
+            "tags": [
+                "halva",
+                "sesame",
+                "parve",
+                "confection"
+            ]
+        },
+        {
+            "id": "krembo",
+            "title": "Krembo",
+            "originalName": "קרמבו",
+            "description": "The sweet sold only in winter, which moves fifty million units a season. Meringue on a biscuit under a chocolate shell.",
+            "category": "Israeli Sweets",
+            "kosherType": "Parve",
+            "image": "images/Krembo.jpg",
+            "prepTime": 40,
+            "cookTime": 10,
+            "servings": 12,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "round biscuits",
+                    "quantity": "12",
+                    "unit": "units"
+                },
+                {
+                    "name": "egg whites",
+                    "quantity": "4",
+                    "unit": "units"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "glucose syrup",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "parve dark chocolate",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "coconut oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Cook the sugar, water and glucose to 121C. That is the temperature that stabilises a meringue; below it, it weeps within the hour.",
+                "Whip the whites to soft peaks, then pour the boiling syrup in a thin stream down the side of the bowl, not onto the whisk.",
+                "Keep whipping eight minutes until the bowl cools and the meringue is glossy and completely stable.",
+                "Pipe a tall peak onto each biscuit and freeze twenty minutes to set.",
+                "Melt the chocolate with the coconut oil and cool it to 32C - hot chocolate melts the meringue.",
+                "Dip each peak upside down and chill. Parve - the chocolate must be free of dairy."
+            ],
+            "tags": [
+                "krembo",
+                "winter",
+                "parve",
+                "confection"
+            ]
+        },
+        {
+            "id": "sufganiyot",
+            "title": "Sufganiyot",
+            "originalName": "סופגניות",
+            "description": "Sweet yeast dough, deep fried and filled with jam. Deliberately parve, so they reach a meat Hanukkah table too.",
+            "category": "Israeli Sweets",
+            "kosherType": "Parve",
+            "image": "images/Sufganiyot.jpg",
+            "prepTime": 120,
+            "cookTime": 20,
+            "servings": 16,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "bread flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "orange juice",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cranberry jam",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "The dough is built on orange juice instead of milk, which keeps the doughnut parve and lets it follow a meat meal.",
+                "Mix the yeast, sugar and warm juice and wait for foam.",
+                "Knead with the flour, eggs, oil and salt for ten minutes to a smooth, slightly tacky dough, and prove an hour and a half.",
+                "Roll to 1.5cm, cut rounds, and prove again for 45 minutes covered - the second prove is what creates the pale ring around the doughnut.",
+                "Fry at 165C only, a minute and a half a side. Oil any hotter burns the outside and leaves the middle raw.",
+                "Drain, fill with jam using a piping bag and nozzle, and dust with icing sugar. Parve."
+            ],
+            "tags": [
+                "sufganiyot",
+                "hanukkah",
+                "parve",
+                "fried"
+            ]
+        },
+        {
+            "id": "ugat-tapuzim",
+            "title": "Whole Orange Cake",
+            "originalName": "עוגת תפוזים",
+            "description": "The oil cake of every Israeli household. A whole orange - peel, juice and all - into the blender.",
+            "category": "Israeli Sweets",
+            "kosherType": "Parve",
+            "image": "images/Ugat_Tapuzim.jpg",
+            "prepTime": 20,
+            "cookTime": 50,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "oranges",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "4",
+                    "unit": "units"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Wash one whole orange and cut it into quarters with the peel on, removing only the pips. Blend with the juice of the second orange.",
+                "The peel is the flavour. A cake made on juice alone comes out pale and sweet with no depth.",
+                "Whisk the eggs and sugar four minutes until pale and doubled in volume.",
+                "Add the oil in a thin stream, then the orange puree.",
+                "Sift in the flour and baking powder and fold with a spatula in as few strokes as possible. A mixer develops gluten and the cake turns rubbery.",
+                "Bake at 170C for 45-50 minutes until a skewer comes out dry. Dust with icing sugar once cool. Parve."
+            ],
+            "tags": [
+                "cake",
+                "orange",
+                "parve",
+                "baking"
+            ]
+        },
+        {
+            "id": "ugiyot-tahini",
+            "title": "Tahini Cookies",
+            "originalName": "עוגיות טחינה",
+            "description": "Three basics and tahini in place of butter. They crumble in the mouth, and they are entirely parve.",
+            "category": "Israeli Sweets",
+            "kosherType": "Parve",
+            "image": "images/Ugiyot_Tahini.jpg",
+            "prepTime": 25,
+            "cookTime": 15,
+            "servings": 24,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "raw tahini",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sesame seeds for rolling",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "date syrup",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Mix the tahini, sugar, oil, date syrup, vanilla and salt to a smooth paste.",
+                "Add the flour and mix only until the dough comes together. Over-kneaded dough gives a hard cookie instead of a crumbly one.",
+                "The dough will look dry and crumbly - that is correct. Pressed into a ball by hand it holds.",
+                "Roll walnut-sized balls, dip the tops in sesame and flatten slightly.",
+                "Bake at 170C for 13-15 minutes only. They stay pale - a browned cookie is a dry one.",
+                "Cool completely on the tray before moving them; warm, they fall apart between your fingers. Parve."
+            ],
+            "tags": [
+                "cookies",
+                "tahini",
+                "parve",
+                "baking"
+            ]
+        },
+        {
+            "id": "ugat-shoko-bachusha",
+            "title": "One-Bowl Chocolate Cake",
+            "originalName": "עוגה בחושה",
+            "description": "One bowl, one spoon, no mixer. The boiling water at the end is what makes it moist.",
+            "category": "Israeli Sweets",
+            "kosherType": "Parve",
+            "image": "images/Ugat_Shoko_Bachusha.jpg",
+            "prepTime": 15,
+            "cookTime": 40,
+            "servings": 12,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "flour",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cocoa powder",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "baking soda",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": "units"
+                },
+                {
+                    "name": "vinegar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Sift the flour, sugar, cocoa, soda and salt together into one bowl.",
+                "Add the oil, eggs and vinegar and stir with a spoon to a thick batter. The vinegar activates the soda, and that is what lifts the cake without baking powder.",
+                "Pour in the boiling water and stir. The batter will look far too thin - that is correct, and it is where the moisture comes from.",
+                "The hot water also blooms the cocoa, deepening both colour and flavour.",
+                "Pour into a greased tin and bake at 180C for about 40 minutes.",
+                "Cool in the tin twenty minutes before releasing. Parve - which is why it reaches a meat Shabbat table too."
+            ],
+            "tags": [
+                "cake",
+                "chocolate",
+                "parve",
+                "easy"
+            ]
+        },
+        {
+            "id": "ruggelach-yerushalmi",
+            "title": "Jerusalem Rugelach",
+            "originalName": "רוגלך ירושלמי",
+            "description": "Yeast dough, not cheese dough - the Jerusalem version, dipped in sugar syrup the moment it leaves the oven.",
+            "category": "Israeli Sweets",
+            "kosherType": "Parve",
+            "image": "images/Ruggelach_Yerushalmi.jpg",
+            "prepTime": 150,
+            "cookTime": 20,
+            "servings": 32,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "soft margarine",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parve chocolate spread",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cocoa powder",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Knead a rich yeast dough with the margarine - not cheese, which is what separates Jerusalem rugelach from the American kind and what makes it parve.",
+                "Prove an hour, then chill the dough a further hour. Cold dough rolls thin without tearing.",
+                "Roll into a circle, spread with chocolate spread mixed with cocoa and sugar, and cut into 16 triangles.",
+                "Roll from the wide base towards the point and curve slightly. Prove 40 minutes.",
+                "Bake at 190C for 18-20 minutes to a deep brown.",
+                "Dip in boiling sugar syrup the instant they come out of the oven - a moment of waiting and they will not absorb it. Parve."
+            ],
+            "tags": [
+                "rugelach",
+                "yeast",
+                "parve",
+                "jerusalem"
+            ]
+        },
+        {
+            "id": "ugat-gvina-kara",
+            "title": "No-Bake Cheesecake",
+            "originalName": "עוגת גבינה קרה",
+            "description": "Israel's Shavuot cake - no oven, built on soft white cheese rather than American cream cheese.",
+            "category": "Israeli Sweets",
+            "kosherType": "Dairy",
+            "image": "images/Ugat_Gvina_Kara.jpg",
+            "prepTime": 30,
+            "cookTime": 0,
+            "servings": 12,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "biscuits",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "melted margarine",
+                    "quantity": "120",
+                    "unit": "g"
+                },
+                {
+                    "name": "soft white cheese 5%",
+                    "quantity": "750",
+                    "unit": "g"
+                },
+                {
+                    "name": "whipping cream",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "kosher gelatine powder",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "strawberry jam",
+                    "quantity": "1",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Crush the biscuits, mix with the melted margarine and press into the base of a springform tin. Chill half an hour.",
+                "Sprinkle the gelatine over a quarter cup of cold water and leave five minutes to bloom, then melt it over steam. Never over direct heat - boiled gelatine loses its setting power.",
+                "Whip the cream to firm peaks and set aside.",
+                "Beat the cheese with the sugar and lemon, and add the warm gelatine in a thin stream while stirring fast.",
+                "Fold the whipped cream in gently and pour over the biscuit base.",
+                "Chill at least six hours, and only then spread the jam over the top. Dairy - the gelatine must be certified."
+            ],
+            "tags": [
+                "cheesecake",
+                "shavuot",
+                "dairy",
+                "no-bake"
+            ]
+        },
+        {
+            "id": "limonana",
+            "title": "Limonana",
+            "originalName": "לימונענע",
+            "description": "Invented in a 1992 Israeli advertising campaign for a drink that did not exist - and within a year it was in every cafe in the Middle East.",
+            "category": "Israeli Sweets",
+            "kosherType": "Parve",
+            "image": "images/Limonana.jpg",
+            "prepTime": 10,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "lemon juice",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "mint leaves",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "crushed ice",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "grated lemon zest",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "mint leaves to garnish",
+                    "quantity": "8",
+                    "unit": "leaves"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "pinch"
+                }
+            ],
+            "instructions": [
+                "Dissolve the sugar in a cup of hot water and cool completely. Undissolved sugar sinks to the bottom of the glass.",
+                "Blend the mint with the lemon juice and ice in short pulses. A blender left running heats the leaves and the drink comes out brown and bitter.",
+                "Add the syrup, water and salt and blend five seconds more.",
+                "Taste: if it is too sharp add syrup, not water - water dilutes the mint as well.",
+                "Serve at once in tall glasses. Limonana left standing ten minutes loses both its foam and its colour.",
+                "Garnish with mint leaves and lemon zest. Parve."
+            ],
+            "tags": [
+                "limonana",
+                "drink",
+                "parve",
+                "summer"
+            ]
+        }
+    ]
+}
